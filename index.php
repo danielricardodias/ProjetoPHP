@@ -5,7 +5,7 @@ Projeto PHP aula Aplicações WEB, fazer upload do projeto no GIT
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Projeto PHP</title>
     </head>
     <body>
         <?php
