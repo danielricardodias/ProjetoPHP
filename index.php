@@ -11,5 +11,7 @@ Projeto PHP aula Aplicações WEB, fazer upload do projeto no GIT
         <?php
         echo ("teste")
         ?>
+        
+        //https://www.tutorialspoint.com/php/php_mysql_login.htm
     </body>
 </html>
