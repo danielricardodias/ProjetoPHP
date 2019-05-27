@@ -9,7 +9,7 @@ Projeto PHP aula Aplicações WEB, fazer upload do projeto no GIT
     </head>
     <body>
         <?php
-        // put your code here
+        echo ("teste")
         ?>
     </body>
 </html>
